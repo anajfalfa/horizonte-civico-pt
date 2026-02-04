@@ -1,0 +1,37 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #1A3A6D;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #6EBF8B;
+    padding: 30px 0;
+}
+
+.logo {
+    width: 150px;
+}
+
+h1 {
+    margin: 10px 0 5px 0;
+    font-size: 2.5em;
+}
+
+.tagline {
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.coming-soon {
+    padding: 100px 20px;
+}
+
+footer {
+    background-color: #555555;
+    color: #fff;
+    padding: 20px 0;
+}
